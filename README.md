@@ -1,2 +1,1 @@
-# Repositorio-
-Aquí se alojará un generador de contraseña 
+Gestor_archivos_cpp
